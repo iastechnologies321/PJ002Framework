@@ -1,1 +1,0 @@
-// Design Pattern is Page Object Model
